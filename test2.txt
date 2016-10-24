@@ -1,0 +1,12 @@
+ Datentr„ger in Laufwerk C: ist Windows7_OS
+ Volumeseriennummer: A418-6E36
+
+ Verzeichnis von C:\Users\shadi\Desktop\GIT\TestProject
+
+24.10.2016  17:18    <DIR>          .
+24.10.2016  17:18    <DIR>          ..
+24.10.2016  16:44                 0 index.html
+24.10.2016  16:43                 7 test1.txt
+24.10.2016  17:18                 0 test2.txt
+               3 Datei(en),              7 Bytes
+               2 Verzeichnis(se), 151.018.549.248 Bytes frei
